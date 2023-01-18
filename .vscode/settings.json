@@ -1,0 +1,44 @@
+{
+	"sqltools.connections": [
+		{
+			"previewLimit": 50,
+			"server": "localhost",
+			"port": 5432,
+			"driver": "PostgreSQL",
+			"database": "Employees",
+			"username": "laurelineparis",
+			"group": "ZTM - databases collection",
+			"name": "Employees"
+		},
+		{
+			"previewLimit": 50,
+			"server": "localhost",
+			"port": 5432,
+			"driver": "PostgreSQL",
+			"name": "Store",
+			"group": "ZTM - databases collection",
+			"database": "Store",
+			"username": "laurelineparis"
+		},
+		{
+			"previewLimit": 50,
+			"server": "localhost",
+			"port": 5432,
+			"driver": "PostgreSQL",
+			"name": "World",
+			"database": "World",
+			"username": "laurelineparis",
+			"group": "ZTM - databases collection"
+		},
+		{
+			"previewLimit": 50,
+			"server": "localhost",
+			"port": 5432,
+			"driver": "PostgreSQL",
+			"group": "ZTM - databases collection",
+			"name": "France",
+			"database": "France",
+			"username": "laurelineparis"
+		}
+	]
+}
