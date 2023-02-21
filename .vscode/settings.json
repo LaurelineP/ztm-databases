@@ -39,6 +39,16 @@
 			"name": "France",
 			"database": "France",
 			"username": "laurelineparis"
+		},
+		{
+			"previewLimit": 50,
+			"server": "localhost",
+			"port": 5432,
+			"driver": "PostgreSQL",
+			"name": "VianovaProviders",
+			"group": "ZTM - databases collection",
+			"database": "VianovaProviders",
+			"username": "laurelineparis"
 		}
 	]
 }
